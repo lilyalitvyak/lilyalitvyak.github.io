@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+            "appID": "V7588NSAN5.com.none.idl.Receiver",
+            "paths": [
+            "*"
+            ]
+            }
+        ]
+    }
+}
+
